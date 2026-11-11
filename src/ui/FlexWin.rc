@@ -1,0 +1,8 @@
+#include <windows.h>
+#include "Resource.h"
+
+IDI_APP_ICON         ICON    "res/app.ico"
+IDI_CROSSHAIR_ICON   ICON    "res/crosshair.ico"
+IDC_CROSSHAIR_CURSOR CURSOR  "res/crosshair.cur"
+
+1 RT_MANIFEST "FlexWin.manifest"

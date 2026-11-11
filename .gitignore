@@ -1,0 +1,15 @@
+build-x64/
+build-x86/
+build-tests/
+dist/
+out/
+.vs/
+*.user
+*.suo
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+rules.json
